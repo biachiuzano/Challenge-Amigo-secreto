@@ -13,8 +13,11 @@ JavaScript (Vanilla)
 📂 Estructura del proyecto
 
 ├── index.html  # Página principal
+
 ├── style.css   # Estilos del sitio
+
 ├── app.js      # Lógica del sorteo
+
 └── assets/     # Imágenes y recursos
 
 🚀 Cómo usar

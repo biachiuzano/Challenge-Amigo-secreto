@@ -46,4 +46,4 @@ Este es un proyecto web simple para el sorteo de un amigo secreto. Permite a los
 <h1> 👩🏻‍💻 Desarrolladores </h1>
 
 
-[<img src="https://github.com/user-attachments/assets/9f0e476a-1eb0-4884-aa5a-68e2768bb232" width=115><br><sub>Bianka Chiuzano</sub>](https://github.com/biachiuzano)
+[<img src="https://github.com/user-attachments/assets/9f0e476a-1eb0-4884-aa5a-68e2768bb232" width=115><br><sub> Bianka Chiuzano </sub>](https://github.com/biachiuzano)

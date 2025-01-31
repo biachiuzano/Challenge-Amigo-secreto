@@ -28,7 +28,7 @@ Este es un proyecto web simple para el sorteo de un amigo secreto. Permite a los
 
 <h1> 🚀 Cómo usar </h1>
 
-* Clona el repositorio: git clone github.com/biachiuzano/Challenge-Amigo-secreto
+* Clona el repositorio: git clone https://github.com/biachiuzano/Challenge-Amigo-secreto.git
 * Abre index.html en tu navegador.
 
 * Agrega los nombres de los participantes.

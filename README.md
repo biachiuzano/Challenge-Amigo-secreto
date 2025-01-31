@@ -1,6 +1,12 @@
-Amigo Secreto 🎉
 
-Este es un proyecto web simple para gestionar un sorteo de amigo secreto. Permite a los usuarios ingresar nombres y seleccionar aleatoriamente a un amigo secreto.
+![Modern Hand Drawn Horizontal Mug Coffee Shop Logo (2080 x 1080 px) (1600 x 1080 px) (3200 x 1080 px) (1)](https://github.com/user-attachments/assets/af8ce4a4-7ed9-4da7-8ba1-03a23ab89db9)
+
+Descripción del Proyecto
+<p align="center">
+   <img src="https://img.shields.io/badge/Status-Finalized-blue">
+   </p>
+
+Este es un proyecto web simple para el sorteo de un amigo secreto. Permite a los usuarios ingresar nombres y seleccionar de manera aleatoria un amigo secreto.
 
 📌 Tecnologías utilizadas
 

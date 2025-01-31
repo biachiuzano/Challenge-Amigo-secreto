@@ -1,48 +1,46 @@
 
 ![Modern Hand Drawn Horizontal Mug Coffee Shop Logo (2080 x 1080 px) (1600 x 1080 px) (3200 x 1080 px) (1)](https://github.com/user-attachments/assets/af8ce4a4-7ed9-4da7-8ba1-03a23ab89db9)
 
-Descripción del Proyecto
+<h1> Descripción del Proyecto </h1>
 <p align="center">
    <img src="https://img.shields.io/badge/Status-Finalized-blue">
    </p>
 
 Este es un proyecto web simple para el sorteo de un amigo secreto. Permite a los usuarios ingresar nombres y seleccionar de manera aleatoria un amigo secreto.
 
-📌 Tecnologías utilizadas
 
-HTML5
+<h1> 📌 Tecnologías utilizadas </h1>
 
-CSS3
+* HTML5
 
-JavaScript (Vanilla)
+* CSS3
 
-📂 Estructura del proyecto
+* JavaScript (Vanilla)
 
-├── index.html  # Página principal
 
-├── style.css   # Estilos del sitio
+<h1> 📂 Funcionalidades </h1>
 
-├── app.js      # Lógica del sorteo
+* Almacenar nombres
+* Agregar amigos
+* Actualizar lista de amigos
+* Sortear amigos
 
-└── assets/     # Imágenes y recursos
 
-🚀 Cómo usar
+<h1> 🚀 Cómo usar </h1>
 
-Clona el repositorio:
+* Clona el repositorio: git clone https://github.com/tu-usuario/amigo-secreto.git
 
-git clone https://github.com/tu-usuario/amigo-secreto.git
+* Abre index.html en tu navegador.
 
-Abre index.html en tu navegador.
+* Agrega los nombres de los participantes.
 
-Agrega los nombres de los participantes.
+* Presiona el botón "Sortear amigo" para obtener un resultado aleatorio.
 
-Presiona el botón "Sortear amigo" para obtener un resultado aleatorio.
 
-🖼️ Capturas de pantalla
+<h1> 🖼️ Capturas de pantalla </h1>
 
 (Agrega aquí capturas de pantalla si lo deseas.)
 
-📜 Licencia
 
-Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y modificarlo! 😊
+<h1> 👩🏻‍💻 Desarrolladores </h1>
 

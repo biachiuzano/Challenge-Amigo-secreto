@@ -9,7 +9,7 @@
 Este es un proyecto web simple para el sorteo de un amigo secreto. Permite a los usuarios ingresar nombres y seleccionar de manera aleatoria un amigo secreto.
 
 
-<h1> 📌 Tecnologías utilizadas </h1> 
+<h1> 📌 Tecnologías utilizadas </h1>  
 
 * HTML5
 

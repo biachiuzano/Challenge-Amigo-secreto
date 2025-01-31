@@ -39,8 +39,11 @@ Este es un proyecto web simple para el sorteo de un amigo secreto. Permite a los
 
 <h1> 🖼️ Capturas de pantalla </h1>
 
-(Agrega aquí capturas de pantalla si lo deseas.)
+![Opera Captura de pantalla_2025-01-31_015249_index html](https://github.com/user-attachments/assets/853c66e4-5233-4635-a1c2-1ecef985d93e)
+![Opera Captura de pantalla_2025-01-31_015304_index html](https://github.com/user-attachments/assets/d8ddd78d-ea18-4e5f-8b57-4272c151b452)
 
 
 <h1> 👩🏻‍💻 Desarrolladores </h1>
 
+
+[<img src="https://github.com/user-attachments/assets/9f0e476a-1eb0-4884-aa5a-68e2768bb232" width=115><br><sub>Bianka Chiuzano</sub>](https://github.com/biachiuzano)
